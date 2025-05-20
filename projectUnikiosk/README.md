@@ -4,8 +4,8 @@ UniKiosk project proposes the development of a modern and streamlined food kiosk
 
 ## Content
 
-  -[Usage Info](#usage)
+  - [Usage Info](#usage)
 
-  ##Usage Info
+## Usage Info
 
   Instruction how to run the project.
