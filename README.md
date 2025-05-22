@@ -3,6 +3,8 @@ This repository contains a collection of various projects I created during my le
 
 ## Content
 
-  - [Project uniKiosk] (#projectUnikiosk)
+  - [Project Unikosk](#unikioask)
 
-## projectUnikiosk
+## Project Unikosk
+
+  Instruction how to run the project.
