@@ -5,4 +5,4 @@ This repository contains a collection of various projects I created during my le
 
   - [Project uniKiosk] (#projectUnikiosk)
 
-## Usage Info
+## projectUnikiosk
