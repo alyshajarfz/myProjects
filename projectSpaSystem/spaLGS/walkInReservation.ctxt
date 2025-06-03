@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=walkInReservation
+comment1.params=cust\ p\ rt\ gv
+comment1.target=walkInReservation(Customer,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=giftVoucher
+comment2.target=void\ setGiftVoucher(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getGiftVoucher()
+comment4.params=
+comment4.target=java.lang.String\ formatGiftVoucher()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

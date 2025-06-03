@@ -1,0 +1,154 @@
+========================================
+         Luxe Glow Spa Customer Info    
+========================================
+
+========================================
+Customer 1:
+Name             : Yasmin              
+Phone Number     : 0123534891          
+Membership       : Yes                 
+Package          : B                   
+Reservation Type : walkIn              
+Reward Points    : -                   
+Points Voucher   : -                   
+Gift Voucher     : GVLGS20             
+Normal Price     : RM 150.0               
+Discount         : RM 15.0                
+Total Payment    : RM 135.0               
+========================================
+
+========================================
+Customer 2:
+Name             : Emma                
+Phone Number     : 0117986783          
+Membership       : Yes                 
+Package          : D                   
+Reservation Type : online              
+Reward Points    : 200.0               
+Points Voucher   : LGS24               
+Gift Voucher     : -                   
+Normal Price     : RM 100.0               
+Discount         : RM 10.0                
+Total Payment    : RM 90.0                
+========================================
+
+========================================
+Customer 3:
+Name             : Iffa                
+Phone Number     : 0178954321          
+Membership       : No                  
+Package          : C                   
+Reservation Type : walkIn              
+Reward Points    : -                   
+Points Voucher   : -                   
+Gift Voucher     : GVLGS30             
+Normal Price     : RM 125.0               
+Discount         : RM 0.0                 
+Total Payment    : RM 125.0               
+========================================
+
+========================================
+Customer 4:
+Name             : Mira                
+Phone Number     : 0112354785          
+Membership       : No                  
+Package          : A                   
+Reservation Type : online              
+Reward Points    : 200.0               
+Points Voucher   : LGS24               
+Gift Voucher     : -                   
+Normal Price     : RM 100.0               
+Discount         : RM 0.0                 
+Total Payment    : RM 100.0               
+========================================
+
+========================================
+Customer 5:
+Name             : Putri               
+Phone Number     : 0133675674          
+Membership       : Yes                 
+Package          : A                   
+Reservation Type : walkIn              
+Reward Points    : -                   
+Points Voucher   : -                   
+Gift Voucher     : GVLGS10             
+Normal Price     : RM 100.0               
+Discount         : RM 10.0                
+Total Payment    : RM 90.0                
+========================================
+
+========================================
+Customer 6:
+Name             : Qyla                
+Phone Number     : 012525235           
+Membership       : Yes                 
+Package          : D                   
+Reservation Type : online              
+Reward Points    : 200.0               
+Points Voucher   : LGS24               
+Gift Voucher     : -                   
+Normal Price     : RM 100.0               
+Discount         : RM 10.0                
+Total Payment    : RM 90.0                
+========================================
+
+========================================
+Customer 7:
+Name             : Farah               
+Phone Number     : 015425632           
+Membership       : No                  
+Package          : B                   
+Reservation Type : online              
+Reward Points    : 350.0               
+Points Voucher   : LGS24               
+Gift Voucher     : -                   
+Normal Price     : RM 150.0               
+Discount         : RM 0.0                 
+Total Payment    : RM 150.0               
+========================================
+
+========================================
+Customer 8:
+Name             : Alyah               
+Phone Number     : 0164523621          
+Membership       : Yes                 
+Package          : B                   
+Reservation Type : walkIn              
+Reward Points    : -                   
+Points Voucher   : -                   
+Gift Voucher     : GVLGS20             
+Normal Price     : RM 150.0               
+Discount         : RM 15.0                
+Total Payment    : RM 135.0               
+========================================
+
+
+Total Sales Of The Week: RM 915.00
+Weekly target sales reached!
+
+Analysis of total service taken for the week:
+Package A is chosen 2 times.
+Package B is chosen 3 times.
+Package C is chosen 1 times.
+Package D is chosen 2 times.
+
+The most chosen package is: B
+
+------------------------------------------------------
+
+------------------------------------------------------
+
+Luxe Glow Spa Customer Information Update
+[Customer 4 before update]
+Name             : Mira                
+Phone Number     : 0112354785          
+Membership       : No                  
+Package          : A                   
+Reservation Type : online              
+
+[Customer 4 after update]
+Name             : Mira                
+Phone Number     : 0112135589          
+Membership       : Member              
+Package          : A                   
+Reservation Type : online              

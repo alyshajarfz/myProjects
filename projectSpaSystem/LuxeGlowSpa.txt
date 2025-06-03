@@ -1,0 +1,8 @@
+Yasmin,0123534891,Yes,B,walkIn
+Emma,0117986783,Yes,D,online
+Iffa,0178954321,No,C,walkIn
+Mira,0112354785,No,A,online
+Putri,0133675674,Yes,A,walkIn
+Qyla,012525235,Yes,D,online
+Farah,015425632,No,B,online
+Alyah,0164523621,Yes,B,walkIn
