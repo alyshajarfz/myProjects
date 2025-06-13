@@ -1,6 +1,6 @@
 ## FOOD ORDERING SYSTEM 
 
-The homepage of eMenu Taste Haven Cafe features a scrollable interface, enabling customers to smoothly navigate through various sections. 
+The homepage of eMenu Taste Haven Cafe features a scrollable interface, enabling customers to smoothly navigate through various sections. I created this system using HTML, CSS, JavaScript and PhpMyAdmin to handle server-side operations and store data in a database running on XAMPP. This setup enables a seamless and dynamic ordering experience with real-time data management.
 
 Including:
 
