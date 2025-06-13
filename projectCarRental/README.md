@@ -1,20 +1,22 @@
 ## CAR RENTAL MANAGEMENT SYSTEM
 
-Car Rental Haven Enterprise is a simple yet functional car rental system developed using C++. It is designed to manage the essential operations of a car rental business, including customer bookings, rental costing, and daily sales analysis for staff.
+Car Rental Haven Enterprise is a simple yet functional car rental system developed using C++. It is designed to manage the essential operations of a car rental business, including customer bookings, rental costing and daily sales analysis for staff.
 
-Featuring a user-friendly, text-based interface, the system is ideal for small to medium-sized rental businesses. Users can easily interact with the program to:
+Featuring a user-friendly, text-based interface, the system is ideal for small to medium-sized rental businesses.
 
-    - Book a car by selecting the car model, transmission type (Automatic or Manual), and rental duration (by hours or days),
+For users or customers, the system allows them to:
 
-    - Generate a receipt displaying the total rental cost,
+    - Book a car by selecting the car model, car type (Automatic or Manual) and rental duration (by hours or days).
 
-    - And make additional bookings if needed.
+    - Generate a receipt displaying the total rental cost.
 
-For Staff, the system offers valuable business insights by providing options to:
+    - Make additional bookings if needed.
 
-    - View the total sales for the day,
+For staff, the system provides options to:
 
-    - Identify the highest and lowest sale transactions,
+    - View the total sales for the day.
+
+    - Identify the highest and lowest sale transactions.
 
     - And calculate the average sales of the day.
 
