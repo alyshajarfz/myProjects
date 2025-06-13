@@ -7,17 +7,13 @@ Featuring a user-friendly, text-based interface, the system is ideal for small t
 For users or customers, the system allows them to:
 
     - Book a car by selecting the car model, car type (Automatic or Manual) and rental duration (by hours or days).
-
     - Generate a receipt displaying the total rental cost.
-
     - Make additional bookings if needed.
 
 For staff, the system provides options to:
 
     - View the total sales for the day.
-
     - Identify the highest and lowest sale transactions.
-
     - And calculate the average sales of the day.
 
 The demo below shows Car Rental Haven Enterprise, a C++ car rental management project that effectively applies fundamental programming concepts and models practical business operations.
