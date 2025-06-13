@@ -1,6 +1,6 @@
 ## FOOD ORDERING SYSTEM 
 
-The food ordering system, eMenu Taste Haven Cafe is designed to streamline food ordering for both customers and administrators in a restaurant.
+The food ordering system, eMenu Taste Haven Cafe is designed to streamline food ordering for both customers and administrators in a restaurant. I created this system using HTML, CSS, JavaScript and PhpMyAdmin to handle server-side operations and store data in a database running on XAMPP. This setup enables a seamless and dynamic ordering experience with real-time data management.
 When a customer first visits the eMenu Taste Haven Cafe website, they are directed to the Login page. 
 
 New users can choose to:
