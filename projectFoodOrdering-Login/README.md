@@ -11,4 +11,6 @@ New users can choose to:
 
 Overall, this flexible login system ensures easy access for both returning and new customers, providing a seamless start to their ordering experience.
 
+The demo below shows how the login and signup sections function on the eMenu Taste Haven Cafe website.
+
 https://github.com/user-attachments/assets/62a2d42a-58b7-4736-ae08-faaf43b0cf9e
